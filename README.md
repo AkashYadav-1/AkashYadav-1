@@ -26,4 +26,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AkashYadav-1&show_icons=true&locale=en&theme=tokyonight" alt="AkashYadav-1" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashYadav-1&theme=tokyonight" alt="AkashYadav-1" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkashYadav-1&theme=tokyonight" alt="AkashYadav-1" /></p>
