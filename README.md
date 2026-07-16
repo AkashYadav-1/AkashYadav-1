@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 <h3 align="center">BCA Final Year Student | Aspiring Software Engineer from Kanpur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash24303&label=Profile%20views&color=0e75b6&style=flat" alt="AkashYadav-1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashYadav-1&label=Profile%20views&color=0e75b6&style=flat" alt="AkashYadav-1" /> </p>
 
 - 🔭 I’m currently working on **E-Commerce Clone Project**
-- 🌱 I’m currently learning **React.js & MongoDB*
+- 🌱 I’m currently learning **React.js & MongoDB**
 - 📫 How to reach me **akashyadav2430332@gmail.com**
 
 ---
@@ -24,6 +24,6 @@
 </p>
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AkashYadav-1&show_icons=true&locale=en&theme=tokyonight" alt="akash24303" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AkashYadav-1&show_icons=true&locale=en&theme=tokyonight" alt="AkashYadav-1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashYadav-1&theme=tokyonight" alt="akash24303" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashYadav-1&theme=tokyonight" alt="AkashYadav-1" /></p>
