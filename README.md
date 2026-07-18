@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
-<h3 align="center">BCA Final Year Student | Aspiring Software Engineer from Kanpur</h3>
+<h3 align="center">BCA Final Year Student | Aspiring Full-Stack Developer from Kanpur</h3>
 
 * 🔭 I’m currently working on **E-Commerce Clone Project**
 * 🌱 I’m currently learning **React.js & MongoDB**
